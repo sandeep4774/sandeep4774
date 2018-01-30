@@ -1,3 +1,17 @@
+----------------------------------------------------
+
+Nice Jira banner
+
+<style type="text/css">
+div.aui-message warning { display: none; }
+</style>
+
+<div style="background-color: #00ffff; border: 2px solid red; margin: 4px; padding: 4px; font-weight: bold; text-align: center;">
+<h2 style="color:red;">JIRA 7.6.3 User Acceptance Test Instance - All changes will be lost every Tuesday</h2>
+</div><br/>
+
+----------------------------------------------------
+
 http://justlaravel.com/how-to-deploy-laravel-project-shared-hosting/
 
 https://laracasts.com/discuss/channels/laravel/hosting-laravel-project-in-cpanel?page=0
